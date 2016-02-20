@@ -1,0 +1,21 @@
+{
+  "name": "video_grid",
+  "version": "1.0.0",
+  "description": "an attempt to build responsive ui with opentok screen ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.7.0",
+    "lite-server": "^2.0.1",
+    "mongoose": "^4.4.4",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.9.0"
+  }
+}
